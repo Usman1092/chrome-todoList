@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Todo List Extension",
+  "action": {
+    "default_popup": "index.html"
+    
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "icons": {
+    "32": "logo512.png",
+    "48": "logo512.png",
+    "128": "logo512.png"
+  }
+}
+
+
+
+
+
+
+
+
